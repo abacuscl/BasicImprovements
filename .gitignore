@@ -1,9 +1,7 @@
-
-*.class
-*.yml
-*.TXT
-*.mf
-*.xml
-*.properties
+dist/
+nbproject/
+build/
+test/
 spigot-1.16.5.jar
-dist/lib/spigot-1.16.5.jar
+manifest.mf
+build.xml
