@@ -1,0 +1,9 @@
+
+*.class
+*.yml
+*.TXT
+*.mf
+*.xml
+*.properties
+spigot-1.16.5.jar
+dist/lib/spigot-1.16.5.jar
